@@ -1,6 +1,4 @@
 # テーブル設計
-![ER](https://user-images.githubusercontent.com/74100398/110233104-2b4fb300-7f65-11eb-9aee-869daf2d26a3.png)
-
 
 ## users テーブル
 
